@@ -5,6 +5,6 @@
 Папка **examples** содержит результат кластеризации в формате xlsx, что позволяет быстро оценить, какие документы были отнесены к каким темам. 
 
 **notebooks** - блокноты google colab. **Bertopic_final.ipynb** - позволяет получить результаты. В него не входит дополнительная визуализация. Bertopic_vizualization.ipynb - содержит больше визуализации.
-Bertopic_calculation_second_code.ipynb - попытка получить 2 код к документам. 
+Bertopic_calculation_second_code.ipynb - попытка получить 2 код к документам. **Bertopic_hierarchies.ipynb** - иерархическая модель.
 
 **requirements.txt** - актуальные версии библиотек
